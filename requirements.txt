@@ -1,0 +1,25 @@
+# Name                    Version                   Build  Channel
+ipykernel                 5.5.6                    pypi_0    pypi
+ipython                   8.18.1                   pypi_0    pypi
+jupyter-client            8.6.0                    pypi_0    pypi
+jupyter-core              5.5.0                    pypi_0    pypi
+keras                     3.4.1                    pypi_0    pypi
+matplotlib                3.5.1                    pypi_0    pypi
+matplotlib-inline         0.1.6                    pypi_0    pypi
+numpy                     1.26.4           py39h055cbcc_0
+numpy-base                1.26.4           py39h65a83cf_0
+pip                       24.1.2                   pypi_0    pypi
+tensorboard               2.17.0                   pypi_0    pypi
+tensorboard-data-server   0.7.2                    pypi_0    pypi
+tensorflow                2.17.0                   pypi_0    pypi
+tensorflow-intel          2.17.0                   pypi_0    pypi
+tensorflow-io-gcs-filesystem 0.31.0                   pypi_0    pypi
+torch                     1.12.0+cu113             pypi_0    pypi
+torchaudio                0.12.0+cu113             pypi_0    pypi
+torchvision               0.13.0+cu113             pypi_0    pypi
+
+
+
+
+
+

@@ -1,2 +1,2 @@
 # FedDW
-FedDW : Heterogeneous Federated Learning with Distillation Weights on Final Layer
+FedDW : Heterogeneous Federated Learning with Distilling Weights on Final Layer

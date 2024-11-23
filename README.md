@@ -1,2 +1,2 @@
 # FedDW
-FedDW : Heterogeneous Federated Learning with Distilling Weights on Final Layer
+FedDW: Distilling Weights through Consistency Optimization in Heterogeneous Federated Learning

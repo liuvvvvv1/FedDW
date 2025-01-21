@@ -24,8 +24,9 @@ Code is available at: [GitHub Repository](https://github.com/liuvvvvv1/FedDW)
 Federated Learning struggles with data heterogeneity (non-IID distributions), leading to significant differences in local updates and reduced global model performance. Current methods often rely on inter-client information sharing, risking privacy violations.
 
 ### 2. DLE Data and Consistency Optimization
-- **Definition**: DLE data represents encrypted training data features that cannot be reconstructed back to the original data.
+- **DLE Data**: DLE data represents encrypted training data features that cannot be reconstructed back to the original data.
 <img src="./pict/san.png" width="350" />
+
 - **Consistency Optimization**: Regularizes the relationship between soft labels and classifier layer parameters to mitigate the impact of heterogeneity.
 <img src="./pict/opti.png" width="350" />
 

@@ -43,8 +43,8 @@ Federated Learning struggles with data heterogeneity (non-IID distributions), le
 ---
 
 ## Experimental Results
-<img src="./pict/t1.png" width="350" />
-<img src="./pict/t2.png" width="350" />
+<img src="./pict/t1.png" width="500" />
+<img src="./pict/t2.png" width="500" />
 
 
 ---

@@ -25,6 +25,10 @@ Federated Learning struggles with data heterogeneity (non-IID distributions), le
 
 ### 2. DLE Data and Consistency Optimization
 - **Definition**: DLE data represents encrypted training data features that cannot be reconstructed back to the original data.
+![Federated Learning Diagram](./pict/san.png "FL Diagram")
+
+
+
 - **Consistency Optimization**: Regularizes the relationship between soft labels and classifier layer parameters to mitigate the impact of heterogeneity.
 
 

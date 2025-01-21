@@ -38,7 +38,7 @@ Federated Learning struggles with data heterogeneity (non-IID distributions), le
 1. Clients locally generate soft label matrices and upload them to the server.
 2. The server aggregates global soft labels and forms a consistency regularization target.
 3. Clients adjust classifier layer parameters based on the global regularization target, reducing non-IID issues.
-<img src="./pict/sum.png" width="400" />
+<img src="./pict/sum.png" width="600" />
 
 ---
 

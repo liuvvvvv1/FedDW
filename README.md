@@ -25,11 +25,9 @@ Federated Learning struggles with data heterogeneity (non-IID distributions), le
 
 ### 2. DLE Data and Consistency Optimization
 - **Definition**: DLE data represents encrypted training data features that cannot be reconstructed back to the original data.
-<img src="./pict/san.png" width="400" />
-
-
-
+<img src="./pict/san.png" width="350" />
 - **Consistency Optimization**: Regularizes the relationship between soft labels and classifier layer parameters to mitigate the impact of heterogeneity.
+<img src="./pict/opti.png" width="350" />
 
 
 
@@ -39,15 +37,16 @@ Federated Learning struggles with data heterogeneity (non-IID distributions), le
 1. Clients locally generate soft label matrices and upload them to the server.
 2. The server aggregates global soft labels and forms a consistency regularization target.
 3. Clients adjust classifier layer parameters based on the global regularization target, reducing non-IID issues.
+<img src="./pict/sum.png" width="400" />
 
 ---
 
 ## Experimental Results
-
+<img src="./pict/t1.png" width="350" />
+<img src="./pict/t2.png" width="350" />
 
 
 ---
-
 ## Citation
-If you find this paper interesting, please refer to the full text: [PDF Download](Link to the paper).
+If you find this paper interesting, please refer to the full text: [[PDF Download](Link to the paper)](https://arxiv.org/abs/2412.04521).
 

@@ -1,11 +1,7 @@
 # FedDW: Distilling Weights through Consistency Optimization in Heterogeneous Federated Learning
 
 ## Authors
-- **Jiayu Liu** (Harbin Engineering University, China)  
-- **Yong Wang** (Harbin Engineering University, China)  
-- **Nianbin Wang** (Harbin Engineering University, China)  
-- **Jing Yang** (Harbin Engineering University, China)  
-- **Xiaohui Tao** (University of Southern Queensland, Australia)  
+
 
 ## Abstract
 Federated Learning (FL) is an innovative distributed machine learning paradigm that enables neural network training across devices without centralizing data. While this addresses issues of data sharing and privacy, challenges arise due to data heterogeneity and the increasing scale of networks, which impact model performance and training efficiency. This paper introduces a novel framework, **FedDW**, to address these challenges through consistency optimization. The key contributions are as follows:
